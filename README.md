@@ -19,4 +19,3 @@ Running level01 ask for a 3 digits number which we will find inside the binary.
 
 You can find a “Readme File”. Using vi command you can see the instruction of that file.
 
-![image002](https://user-images.githubusercontent.com/41302499/75865123-0fcd3c00-5e29-11ea-9e3e-b153e0e7f751.png)
