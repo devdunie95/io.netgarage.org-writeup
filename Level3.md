@@ -68,4 +68,4 @@ Run python inside /levels and then get this value.
 
 Level 4 password: `7WhHa5HWMNRAYl9T`
 
-![18](https://user-images.githubusercontent.com/41302499/75866213-b403b280-5e2a-11ea-9cd6-c54bb2770bce.png)
+![18](https://user-images.githubusercontent.com/41302499/75866213-b403b280-5e2a-11ea-9cd6-c5b4bb2770ce.png)
