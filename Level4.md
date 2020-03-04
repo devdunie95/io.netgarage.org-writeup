@@ -20,4 +20,4 @@ You have prepended a "." in the `$PATH`. The OS will start searching from curren
 
 ![20](https://user-images.githubusercontent.com/41302499/75866218-b534df80-5e2a-11ea-8e39-34ba79bb2b15.png)
 
-Level 5 password: 
+Level 5 password: `DNLM3Vu0mZfX0pDd`
